@@ -98,6 +98,7 @@ namespace MN41_TP2
             }
             displayVector("U", U);
         }
+        
         /*
            Displays any n-sized vector nicely
          */
